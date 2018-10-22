@@ -1,0 +1,13 @@
+[
+	{
+		"url": "https://example.com",
+		"desc": "The homepage of example",
+		"children": [
+			{
+				"url": "/child1",
+				"desc": "Child 1 of example",
+				"children": []
+			}
+		]
+	}
+]
